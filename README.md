@@ -1,1 +1,1 @@
-React JS expenses application.
+This is a simple demo app, built during a react Udemy course.
